@@ -1,4 +1,4 @@
-# Whatsapp Bot
+# Whatsapp PyBot
 ## Perform Operation like
 1. Put your details
 2. connect with internet
